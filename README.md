@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @blogtheristometro
-- 👀 I work at Lifetime World. It is focused on technologies to help winning the fight against climate change, erosion, and droughts. Climate Tech.   
-- 👀 With use of AI + Data awakening we can find pathway to the AI electrification age where we can win climate crisis, stop erosion, and mitigate droughts on planet Earth.  
-- 🌱 The team is now building solutions based on Open AI, Azure AI Services, Cursor AI among other. Lifetime AIQ Solutions are available on Lifetime World.  
+👋 Hi, my name is Risto Anton @blogtheristometro
+👀 I work at Lifetime World. 
+We are focused on building solutions to help winning the fight against climate change, erosion, and droughts. Climate Tech. 👀 With use of AI + Data awakening we can find pathway to the AI Electrification Age where we can balance climate crisis, end Earth damaging erosion, and mitigate drought effects on planet Earth.
+
+🌱 The team is now building solutions based on Open AI and Foundation Models on Azure AI Foundry. We use modern AI tools like Cursor AI, lovable, Replit.
+
+Lifetime AIQ Solutions are available on Lifetime World.  
 - 💞️ Join Microsoft Fabric Hack with me on Devpost.  
 - 📫 How to reach me ; send me email to risto.anton@lifetime.fi or if urgent sms +358400319010  
 - 😄 Pronouns: He
